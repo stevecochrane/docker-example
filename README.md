@@ -1,9 +1,10 @@
 # docker-example
 
-Here's my example code as I learn [Docker](docker.com) by working through the
-[Shipping Docker](shippingdocker.com) video series. So far, this can be used
-to start up a web application with four services: PHP, MYSQL, NGINX, and Redis,
-all configured to connect to each other on the same virtual network.
+Here's my example code as I learn [Docker](https://www.docker.com) by working
+through the [Shipping Docker](https://shippingdocker.com) video series. So far,
+this can be used to start up a web application with four services: PHP, MYSQL,
+NGINX, and Redis, all configured to connect to each other on the same virtual
+network.
 
 If you'd like to give this a try you'll need to have Docker installed. The
 application itself is not included here but if you add an `/application/public`
